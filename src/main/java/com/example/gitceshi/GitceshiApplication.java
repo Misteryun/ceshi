@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitceshiApplication {
 
     public static void main(String[] args) {
-        System.out.println("333333");
+        System.out.println("11111");
         SpringApplication.run(GitceshiApplication.class, args);
     }
 
